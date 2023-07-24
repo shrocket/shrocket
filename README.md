@@ -1,16 +1,16 @@
 # I am 
 - a [writer](https://shawnhuelle.wordpress.com/publications/)
 - a reader
-- an educator
-- a translator
-- an editor
-- a designer
-- a performer
+- an [educator](https://shawnhuelle.wordpress.com/teaching-experience/)
+- a [translator](https://shawnhuelle.wordpress.com/work-experience/)
+- an [editor](https://shawnhuelle.wordpress.com/work-experience/)
+- a [designer](https://shawnhuelle.wordpress.com/work-experience/)
+- a [performer](https://shawnhuelle.wordpress.com/readings-interviews-performances/)
 - a photographer
-- an organizer
-- a troubleshooter
+- an [organizer](https://shawnhuelle.wordpress.com/work-experience/)
+- a [troubleshooter](https://shawnhuelle.wordpress.com/work-experience/)
 - a thinker, and 
-- a (soon-to-be) web developer.
+- a (soon-to-be) [web developer](https://www.neuefische.de/bootcamp/web-development).
 
 ---
 

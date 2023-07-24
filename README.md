@@ -1,5 +1,5 @@
 # I am 
-- a writer
+- a [writer](https://shawnhuelle.wordpress.com/publications/)
 - a reader
 - an educator
 - a translator

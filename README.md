@@ -10,7 +10,7 @@
 - an organizer
 - a troubleshooter
 - a thinker, and 
-- (soon-to-be) web developer.
+- a (soon-to-be) web developer.
 
 ---
 

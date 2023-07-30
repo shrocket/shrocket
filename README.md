@@ -5,6 +5,6 @@ I have dedicated nearly my entire educational and professional life to writing. 
 ---
 
 This is what I look like to a robot (and if you click on the image, you can visit my (current) personal website):
-[![how a robot in Berlin saw me](https://shawnhuelle.files.wordpress.com/2023/07/robotportrait3.jpg?w=784)](https://shawnhuelle.com)
+<img src="https://shawnhuelle.files.wordpress.com/2023/07/robotportrait3.jpg?w=784" alt="a relatively messy ballpoint pen portrait of the author drawn by a robot" height="500px href="https://shawnhuelle.com">
 
 Hello and welcome!

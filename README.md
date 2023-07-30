@@ -1,16 +1,6 @@
-# I am 
-- a [writer](https://shawnhuelle.wordpress.com/publications/)
-- a reader
-- an [educator](https://shawnhuelle.wordpress.com/teaching-experience/)
-- a [translator](https://shawnhuelle.wordpress.com/work-experience/)
-- an [editor](https://shawnhuelle.wordpress.com/work-experience/)
-- a [designer](https://shawnhuelle.wordpress.com/work-experience/)
-- a [performer](https://shawnhuelle.wordpress.com/readings-interviews-performances/)
-- a photographer
-- an [organizer](https://shawnhuelle.wordpress.com/work-experience/)
-- a [troubleshooter](https://shawnhuelle.wordpress.com/work-experience/)
-- a thinker, and 
-- a (soon-to-be) [web developer](https://www.neuefische.de/bootcamp/web-development).
+# About Me
+
+I have dedicated nearly my entire educational and professional life to writing. Whether writing code, a novel, or a poem, I am always looking for the best way to communicate an idea. Because communication is multi-directional, I am also very much invested in writing as a process, and an important part of that process is review.
 
 ---
 

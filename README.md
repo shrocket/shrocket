@@ -5,6 +5,7 @@ I have dedicated nearly my entire educational and professional life to writing. 
 ---
 
 This is what I look like to a robot:
+
 <picture>
 <img alt="a relatively messy ballpoint pen portrait of the author drawn by a robot" src="https://shawnhuelle.files.wordpress.com/2023/07/robotportrait3.jpg?w=784" height="500px">
 </picture>

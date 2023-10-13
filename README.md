@@ -1,6 +1,6 @@
 # About Me
 
-I have dedicated my entire educational and professional life to writing. Whether writing code, technical documentation, marketing copy, or a novel, I am always looking for the best way to commu- nicate an idea. Because communication is multi-directional, I am also very much invested in writing as a process, and an important part of that process is review and collaboration.
+I have dedicated my entire educational and professional life to writing. Whether writing code, technical documentation, marketing copy, or a novel, I am always looking for the best way to communicate an idea. Because communication is multi-directional, I am also very much invested in writing as a process, and an important part of that process is review and collaboration.
 
 ---
 

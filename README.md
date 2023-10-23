@@ -4,14 +4,16 @@ I have dedicated my entire educational and professional life to writing. Whether
 
 ---
 
-For more information, please see my (current) [personal website](https://shawnhuelle.com).
+I recently finished a front-end web development boot camp offered by [neue fische](https://www.neuefische.de/bootcamp/web-development), and can now officially call myself a web developer. Here is a [link](https://github.com/shrocket/hotel-tishjama#readme) to the `README` for my capstone project. You can also find a [link](https://hotel-tishjama-seven.vercel.app/) to a deployment of that app on the same page.
+
+---
+
+For more information about me, please see my (current) [personal website](https://shawnhuelle.com), or have a look at my [LinkedIn Profile](https://www.linkedin.com/in/shawn-huelle-616560237/).
 
 ---
 
 This is what I look like to a robot:
 
 <picture>
-<img alt="a relatively messy ballpoint pen portrait of the author drawn by a robot" src="https://shawnhuelle.files.wordpress.com/2023/07/robotportrait3.jpg?w=784" height="500px">
+<img alt="a relatively messy ballpoint pen portrait of the author drawn by a robot" src="https://shawnhuelle.files.wordpress.com/2023/07/robotportrait3.jpg?w=784" height="400px">
 </picture>
-
-

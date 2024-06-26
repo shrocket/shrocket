@@ -4,7 +4,7 @@ I have dedicated my entire educational and professional life to writing. Whether
 
 ---
 
-I recently finished a front-end web development boot camp offered by [neue fische](https://www.neuefische.de/bootcamp/web-development), and can now officially call myself a web developer. Here is a [link](https://github.com/shrocket/hotel-tishjama#readme) to the `README` for my capstone project. You can also find a [link](https://hotel-tishjama-seven.vercel.app/) to a deployment of that app on the same page.
+In the autumn of 2023, I finished a front-end web development boot camp offered by [neue fische](https://www.neuefische.de/bootcamp/web-development). Here is a [link](https://github.com/shrocket/hotel-tishjama#readme) to the `README` for my capstone project. You can also find a [link](https://hotel-tishjama-seven.vercel.app/) to a deployment of that app on the same page.
 
 ---
 

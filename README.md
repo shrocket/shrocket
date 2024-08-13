@@ -13,4 +13,5 @@ For more information about me, please see my (current) [personal website](https:
 ---
 
 This is what I look like to a robot:
+
 ![a relatively messy ballpoint pen drawing by a robot](robotportrait3.jpg)

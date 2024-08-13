@@ -14,6 +14,4 @@ For more information about me, please see my (current) [personal website](https:
 
 This is what I look like to a robot:
 
-<picture>
-<img alt="a relatively messy ballpoint pen portrait of the author drawn by a robot" src="https://shawnhuelle.files.wordpress.com/2023/07/robotportrait3.jpg?w=784" height="400px">
-</picture>
+![a relatively messy ballpoint pen portrait of the author drawn by a robot](robotportrait3.jpg)

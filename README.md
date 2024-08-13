@@ -11,6 +11,3 @@ In the autumn of 2023, I finished a front-end web development boot camp offered 
 For more information about me, please see my (current) [personal website](https://shawnhuelle.com), or have a look at my [LinkedIn Profile](https://www.linkedin.com/in/shawn-huelle-616560237/).
 
 ---
-
-%%This is what I look like to a robot:%%
-%%![a relatively messy ballpoint pen portrait of the author drawn by a robot|380x500](robotportrait3.jpg)%%
